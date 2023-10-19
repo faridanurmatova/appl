@@ -1,0 +1,55 @@
+.wrap{
+    width: 700px;
+    margin: auto;
+    background-color: rgb(241, 240, 178);
+    padding: 20px;
+}
+body{
+    background-image: url('https://kfh-fruktovyjsad.ru/images/page/sorta-yabloni.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.block{
+    border: 2px solid rgb(28, 99, 14);
+    border-radius: 15px ;
+    padding: 25px;
+    margin: 50px 0px;
+    clear: both;
+    }
+    .menus a{
+        color: #00443e;
+        text-decoration:none;
+        padding: 5px 10px;
+        border: 3px solid rgb(241, 240, 178);
+         }
+    .menus a:hover{
+        color: #ae00ff;
+        border: 3px solid rgb(56, 48, 48);
+         }
+ul{
+    border: 2px solid rgb(16, 18, 19);
+    border-radius: 10px ;
+    padding: 25px;
+    border: 1px solid black;
+    margin: 30px ;
+    background-color: rgb(245, 255, 111);
+    width: 200px;
+    float: right;
+
+    
+}
+.block img{
+    float:left;
+    width: 50px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.text img{
+    width: 300px;
+    float: left;
+    margin: 30px;
+}
+.link{
+     text-align: right;
+}
